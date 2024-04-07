@@ -1,0 +1,4 @@
+com.example.android.opengl:string/hello = 0x7f030001
+com.example.android.opengl:string/app_name = 0x7f030000
+com.example.android.opengl:layout/main = 0x7f020000
+com.example.android.opengl:drawable/ic_launcher = 0x7f010000

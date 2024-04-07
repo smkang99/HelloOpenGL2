@@ -1,0 +1,4 @@
+#Sat Apr 06 20:12:22 PDT 2024
+base.0=/Users/christinekang/Documents/helloOpenGLES20/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
